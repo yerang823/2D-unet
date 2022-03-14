@@ -2,8 +2,8 @@
 2D segmentation
 
 # Result
-![그림1](https://user-images.githubusercontent.com/97432613/158136236-e3fa51d2-71f3-4e27-9a99-eb7dc68d3fbd.png)
-![그림2](https://user-images.githubusercontent.com/97432613/158136241-4e2fdbb8-a19e-4568-983b-30f5670c04ad.png)
+![그림1](https://user-images.githubusercontent.com/97432613/158137167-dbc16327-abc2-4575-a218-5db12ef9ac94.png)
+![그림2](https://user-images.githubusercontent.com/97432613/158137150-fe1ca2e5-e1c2-42a7-852b-05f289f243ab.png)
 
 # Architecture
 <p align="center">
